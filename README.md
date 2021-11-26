@@ -12,13 +12,3 @@ I am proficient in TypeScript, JavaScript, Rust, Go, C, C++, C#, Java, Python, S
 ## My Website
 
 My personal website can be found at [wkhallen.com](https://wkhallen.com/).
-
-## Projects
-
-Listed below are a few of my projects.
-
-- [NorseBooks](https://github.com/NorseBooks/NorseBooks): A place for Luther College students to buy and sell textbooks to each other.
-- [LutherNavigator](https://github.com/LutherNavigator/LutherNavigator): A place for Luther College students to share their experiences abroad.
-- [MD Docs](https://github.com/WKHAllen/md-docs): A place for Luther College students to share their experiences abroad.
-- [CDTP](https://github.com/WKHAllen/cdtp): A cross platform networking library written in C.
-- [Notenheim](https://github.com/WKHAllen/Notenheim): Keep track of all your notes and lists from one place, across all devices.
