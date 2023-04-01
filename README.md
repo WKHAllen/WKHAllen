@@ -1,6 +1,6 @@
 # Hello, I'm Will!
 
-I graduated from Luther College in 2021, with majors in Computer Science, Data Science, and Music. I am currently an Associate Software Developer at SAS.
+I graduated from Luther College in 2021, with majors in Computer Science, Data Science, and Music. I am currently a Senior Associate Software Developer at SAS.
 
 I am proficient in Rust, Go, JavaScript, TypeScript, C, C++, C#, Java, Python, and many other languages.
 
